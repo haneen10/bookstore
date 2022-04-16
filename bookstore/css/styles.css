@@ -1,0 +1,59 @@
+
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: "Montserrat-Bold";
+  }
+  
+  p {
+    color: #8f8f8f;
+  }
+  
+  /* Headings */
+  
+  .big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+
+  
+/* Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+  }
+  
+  /* Title Section */
+  
+  #title {
+    background-color: white;
+    color: rgb(52, 52, 52);
+    text-align: left;
+  }
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  /* Title Image */
+  
+  .title-image {
+    width: 80%;
+   
+    position: absolute;
+    right: 30%;
+  }
+  
+  .white-section {
+    background-color: #fff;
+  }
+
+  #title-box {
+  padding: 10%;
+  padding-left: 15%;
+    margin: 8%;
+  }
